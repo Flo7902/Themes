@@ -67,12 +67,12 @@
        "#0b0a0a" 
      ], 
      "BACKGROUND_MOBILE_PRIMARY": [ 
-       "#1a1a1b", 
-       "#1a1a1b" 
-     ], 
-     "BACKGROUND_MOBILE_SECONDARY": [ 
        "transparent", 
        "transparent" 
+     ], 
+     "BACKGROUND_MOBILE_SECONDARY": [ 
+       "#0b0a0a", 
+       "#0b0a0a" 
      ], 
      "BACKGROUND_NESTED_FLOATING": [ 
        "#0b0a0a", 
