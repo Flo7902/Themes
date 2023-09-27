@@ -22,6 +22,10 @@
        "#646464", 
        "#646464" 
      ], 
+      "TEXT_LINK": [ 
+       "#D2042D", 
+       "#D2042D" 
+     ], 
      "INTERACTIVE_NORMAL": [ 
        "#e93e3f", 
        "#e93e3f" 
