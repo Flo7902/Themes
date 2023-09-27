@@ -63,8 +63,8 @@
        "#1a1a1b" 
      ], 
      "BACKGROUND_FLOATING": [ 
-       "transparent", 
-       "transparent" 
+       "#0b0a0a", 
+       "#0b0a0a" 
      ], 
      "BACKGROUND_MOBILE_PRIMARY": [ 
        "transparent", 
@@ -75,8 +75,8 @@
        "#0b0a0a" 
      ], 
      "BACKGROUND_NESTED_FLOATING": [ 
-       "#0b0a0a", 
-       "#0b0a0a" 
+       "transparent", 
+       "transparent" 
      ],
      "BACKGROUND_MODIFIER_SELECTED": [ 
        "#1a1a1b", 
