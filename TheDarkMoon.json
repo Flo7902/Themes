@@ -43,8 +43,8 @@
        "#1a1a1b" 
      ], 
      "BACKGROUND_SECONDARY": [ 
-       "#transparent", 
-       "#transparent" 
+       "#0b0a0a", 
+       "#0b0a0a" 
      ], 
      "BACKGROUND_SECONDARY_ALT": [ 
        "#1a1a1b", 
@@ -205,7 +205,8 @@
      "BLUE_600": "#D53F3F", 
      "BLUE_630": "#D53F3F", 
      "BLUE_660": "#D53F3F", 
-     "BLUE_700": "#D53F3F" 
+     "BLUE_700": "#D53F3F",
+     "WHITE_500": "#c9c9c9"
    },
      "background": { 
     "url": "https://e0.pxfuel.com/wallpapers/443/886/desktop-wallpaper-sunset-dark-theme-minimal-nature-dark-minimalist-theme-sun.jpg",
