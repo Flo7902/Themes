@@ -43,8 +43,8 @@
        "#1a1a1b" 
      ], 
      "BACKGROUND_SECONDARY": [ 
-       "#1a1a1b", 
-       "#1a1a1b" 
+       "#0b0a0a", 
+       "#0b0a0a" 
      ], 
      "BACKGROUND_SECONDARY_ALT": [ 
        "#1a1a1b", 
@@ -75,8 +75,8 @@
        "#0b0a0a" 
      ],
      "BACKGROUND_MODIFIER_SELECTED": [ 
-       "#D2042D", 
-       "#D2042D" 
+       "#1a1a1b", 
+       "#1a1a1b" 
      ], 
      "SCROLLBAR_THIN_THUMB": [ 
        "transparent", 
@@ -103,8 +103,8 @@
        "#D53F3F" 
      ], 
      "CHANNELS_DEFAULT": [ 
-       "#4a4a52", 
-       "#4a4a52" 
+       "#888d91", 
+       "#888d91" 
      ], 
      "HEADER_SECONDARY": [ 
        "#D2042D", 
