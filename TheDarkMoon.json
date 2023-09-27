@@ -73,19 +73,7 @@
      "BACKGROUND_NESTED_FLOATING": [ 
        "#17161b", 
        "#17161b" 
-     ], 
-     "BACKGROUND_MENTIONED": [ 
-       "#EE4B2B", 
-       "#EE4B2B" 
-     ], 
-     "BACKGROUND_MENTIONED_HOVER": [ 
-       "#1E1C2D", 
-       "#1E1C2D" 
-     ], 
-     "BACKGROUND_MESSAGE_HOVER": [ 
-       "#151419", 
-       "#151419" 
-     ], 
+     ],
      "BACKGROUND_MODIFIER_SELECTED": [ 
        "#D2042D", 
        "#D2042D" 
