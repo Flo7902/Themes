@@ -107,8 +107,12 @@
        "#888d91" 
      ], 
      "HEADER_SECONDARY": [ 
-       "#D2042D", 
-       "#D2042D" 
+       "#1a1a1b", 
+       "#1a1a1b" 
+     ],
+      "HEADER_PRIMARY": [ 
+       "#8c3933", 
+       "#8c3933" 
      ] 
    }, 
    "rawColors": { 
