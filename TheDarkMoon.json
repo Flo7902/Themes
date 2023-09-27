@@ -63,8 +63,8 @@
        "#1a1a1b" 
      ], 
      "BACKGROUND_FLOATING": [ 
-       "#0b0a0a", 
-       "#0b0a0a" 
+       "transparent", 
+       "transparent" 
      ], 
      "BACKGROUND_MOBILE_PRIMARY": [ 
        "transparent", 
