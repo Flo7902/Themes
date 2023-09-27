@@ -39,10 +39,10 @@
             "#616161"
         ],
         "BACKGROUND_PRIMARY": [
-            "#1f1f1f"
+            "#FF090909"
         ],
         "BACKGROUND_SECONDARY": [
-            "#1f1f1f"
+            "#FF1B1B1B"
         ],
         "BACKGROUND_SECONDARY_ALT": [
             "#262626"
@@ -51,7 +51,7 @@
             "#1f1f1f"
         ],
         "BACKGROUND_ACCENT": [
-            "#111111"
+            "#FF831F18"
         ],
         "BACKGROUND_FLOATING": [
             "#1f1f1f45"
@@ -78,7 +78,7 @@
             "#1f1f1f"
         ],
         "SCROLLBAR_THIN_TRACK": [
-            "transparent"
+            "#FF831F18"
         ],
         "SCROLLBAR_AUTO_THUMB": [
             "#1f1f1f"
