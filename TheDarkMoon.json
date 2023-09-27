@@ -107,8 +107,8 @@
        "#888d91" 
      ], 
      "HEADER_SECONDARY": [ 
-       "#D2042D", 
-       "#D2042D" 
+       "#bbbbbf", 
+       "#bbbbbf" 
      ]
    }, 
    "rawColors": { 
@@ -118,7 +118,7 @@
      "PRIMARY_800": "#1a1a1b", 
      "BRAND_260": "#D2042D", 
      "BRAND_360": "#D2042D", 
-     "WHITE": "#8c3933", 
+     "WHITE": "#FFFFFF", 
      "RED_260": "#D2042D", 
      "GREEN_600": "#d64746", 
      "BRAND_300": "#D2042D", 
