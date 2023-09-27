@@ -43,8 +43,8 @@
        "#1a1a1b" 
      ], 
      "BACKGROUND_SECONDARY": [ 
-       "#0b0a0a", 
-       "#0b0a0a" 
+       "#transparent", 
+       "#transparent" 
      ], 
      "BACKGROUND_SECONDARY_ALT": [ 
        "#1a1a1b", 
